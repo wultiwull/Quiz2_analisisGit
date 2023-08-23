@@ -1,0 +1,47 @@
+NAMA : SURYANI DEWI WULANDARI
+ID : 7186294
+
+QUIZ 2 
+Buatlah analisis materi dengan topik Git
+
+PENYELESAIAN :
+Git adalah sistem kontrol versi terdistribusi yang digunakan oleh pengembang perangkat lunak untuk mengelola perubahan dalam kode sumber proyek mereka. Dikembangkan oleh Linus Torvalds pada tahun 2005, Git telah menjadi salah satu alat paling penting dalam pengembangan perangkat lunak modern.
+
+Konsep Utama:
+
+1. Repository (Repo)
+Tempat di mana semua versi kode sumber, perubahan, dan riwayat pengembangan disimpan. Repository dapat berada di lokal atau di hosting jarak jauh seperti GitHub, GitLab, atau Bitbucket.
+
+2. Commit
+Tindakan merekam perubahan tertentu dalam repository. Setiap commit memiliki pesan yang menjelaskan perubahan yang dilakukan. Ini memungkinkan pengembang untuk memahami evolusi kode dari waktu ke waktu.
+
+3. Branch
+Salinan kode sumber yang terpisah dari garis utama (biasanya disebut sebagai "master" atau "main"). Membuat cabang memungkinkan pengembang untuk bekerja pada fitur atau perbaikan tertentu tanpa mengganggu kode utama.
+
+4. Merge
+Proses menggabungkan perubahan dari satu cabang ke cabang lainnya. Ini memungkinkan pengembang untuk mengintegrasikan fitur atau perubahan dari cabang samping ke cabang utama.
+
+5. Pull Request (PR)
+Saat bekerja dengan repositori yang di-hosting secara jarak jauh (seperti GitHub), pengembang dapat mengajukan permintaan untuk menggabungkan perubahan mereka ke cabang utama melalui Pull Request. Ini memungkinkan pengulas untuk memberikan masukan sebelum perubahan digabungkan.
+
+6. Konflik
+Konflik terjadi ketika Git tidak dapat secara otomatis menggabungkan perubahan karena ada perubahan yang bersaing di lokasi yang sama. Pengembang harus memecahkan konflik manual sebelum perubahan dapat digabungkan.
+
+
+Kelebihan dan Kelemahan Git
+
+kelebihan :
+- Dapat mengelola versi kode sumber dengan mudah dan efisien.
+
+- Dapat melakukan branching dan merging dengan mudah dan aman.
+
+- Dapat melacak perubahan dan siapa yang membuat perubahan pada source code.
+
+- Memiliki performa yang cepat dan stabil dalam pengelolaan kode sumber yang besar.
+
+Kelemahan : 
+- Memiliki fitur yang kompleks dan terkadang membingungkan bagi pengguna yang kurang berpengalaman.
+
+- Memerlukan pemahaman yang baik tentang konsep dasar seperti repository, commit, branching, dan merging.
+
+- Sulit digunakan untuk pengelolaan file biner atau non-teks, seperti gambar atau video.
